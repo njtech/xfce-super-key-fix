@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=XFCE Super Key Fix
+Exec=/bin/sh -c "$HOME/.local/bin/xfce-super-key-fix.sh"
+OnlyShowIn=XFCE;
+StartupNotify=false
+Terminal=false
+Hidden=true
