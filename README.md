@@ -59,3 +59,7 @@ Logout and log back in for the script to start working.
     - `~/.local/bin/xfce-super-keyfix.sh`
     - `~/.config/autostart/xfce-super-key-fix.desktop`
 - Logout and log back in
+
+---
+
+This script has been tested to work on a stock installation of Debian 12 / XFCE 4.
