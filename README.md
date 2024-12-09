@@ -20,6 +20,8 @@ cd xfce-super-key-fix
 ./install.sh
 ```
 
+When you run the script via this method, you don't need to logout and log back in for it to start working, as the installer script above runs the core script after installing it.
+
 ### Manual
 
 #### Install xcape
@@ -42,6 +44,8 @@ Make `xfce-super-key-fix.sh` script autorun on login on your system as follows
 - Click OK
 
 Be sure to not delete the folder you extracted from the downloaded ZIP file, or move it to a location where you would not delete it normally before doing the above steps.
+
+Logout and log back in for the script to start working.
 
 ## Uninstallation
 
