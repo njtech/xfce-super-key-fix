@@ -15,7 +15,7 @@ Copy the following commands and paste them into your terminal. Hit enter to run 
 ```
 sudo apt install xcape
 cd ~/Downloads/
-git clone git@github.com:njtech/xfce-super-key-fix.sh
+git clone git@github.com:njtech/xfce-super-key-fix
 cd xfce-super-key-fix
 ./install.sh
 ```
